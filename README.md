@@ -28,7 +28,5 @@ This project is a **simple calculator** created as my first project in learning 
 ## Screenshot
 
 <!-- ![screenshot](assets/image.jpg) -->
-<div style="text-align: center;">
-   <img src="assets/image.jpg" alt="Calculator UI" style="width: 50%;"/>   
-</div>
+<img src="assets/image.jpg" alt="Calculator UI" style="width: 50%;"/>
 
