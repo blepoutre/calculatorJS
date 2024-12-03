@@ -26,4 +26,4 @@ This project is a **simple calculator** created as my first project in learning 
    git clone https://github.com/ton-utilisateur/calculatrice-simple.git
 
 ## Screenshot
-[screenshot](blepoutre/calculatorJS/assets/image.jpg)
+[screenshot](assets/image.jpg)
